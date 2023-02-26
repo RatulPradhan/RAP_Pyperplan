@@ -1,5 +1,9 @@
 **Pyperplan** is a lightweight STRIPS planner written in Python.
 
+This is an implementation of Recognition as planning using pyperplan as the classical planner.
+
+Please note that this is a work in progress.
+
 Please note that Pyperplan deliberately prefers clean code over fast
 code. It is designed to be used as a teaching or prototyping tool. If
 you use it for paper experiments, please state clearly that Pyperplan
